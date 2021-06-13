@@ -1,0 +1,12 @@
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\bin\x64\Debug\personelproject.exe.config
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\bin\x64\Debug\personelproject.exe
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\bin\x64\Debug\personelproject.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.csprojAssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.Form1.resources
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.Form2.resources
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.Form3.resources
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.Properties.Resources.resources
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.exe
+C:\Users\CASPER\OneDrive\Masaüstü\personel1\personel proje\personelproject\personelproject\obj\x64\Debug\personelproject.pdb
